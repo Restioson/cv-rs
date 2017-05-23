@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CGpuHog","Opaque data struct for C bindings"],["CGpuMat","Opaque data struct for C/C++ cv::cuda::GpuMat bindings"]],"struct":[["GpuHog","Data structure that performs Histogram of Gradient (HOG)."],["GpuMat","`GpuMat` data structure in rust, bound to an opaque type in C/C++."]]});
